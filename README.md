@@ -1,6 +1,6 @@
 👋 Hello
 
-🌐 Check out my ![website](https://sboogway.github.io)
+🌐 Check out my [website](https://sboogway.github.io)
 
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sbOogway&theme=dark&layout=donut)
 
