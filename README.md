@@ -2,6 +2,5 @@
 
 🌐 Check out my [website](https://sboogway.github.io)
 
-![stats](https://github-readme-stats.vercel.app/api?username=sbOogway&show_icons=true&theme=dark)
-
+[![stats](https://github-stats-extended.vercel.app/api?username=sbOogway)](https://github.com/stats-organization/github-stats-extended)
 ![](https://komarev.com/ghpvc/?username=sbOogway)
