@@ -24,12 +24,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f6fbf8,50:eafaf1,100:d7f3e3&height=200&section=header&text=sbOogway&fontSize=46&fontColor=1d7c37&fontAlignY=38&desc=Mattia%20%E2%80%94%20builder%20%7C%20quant%20tooling%20%7C%20security&descAlignY=55&descAlign=50&animation=fadeIn" width="100%"/>
 
-<a href="https://github.com/sbOogway">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=1D7C37&center=true&vCenter=true&width=620&lines=%24+whoami;mattia+%40+sbOogway;backtesting+%2F+solidity+%2F+security;shipping+weird+side+projects" alt="Typing SVG" />
-</a>
-
-<br/>
-
 <a href="https://sboogway.github.io"><img src="https://img.shields.io/badge/Website-adecbe?style=for-the-badge&logo=githubpages&logoColor=1d7c37"/></a>
 <a href="https://github.com/sbOogway"><img src="https://img.shields.io/badge/GitHub-adecbe?style=for-the-badge&logo=github&logoColor=1d7c37"/></a>
 
@@ -49,18 +43,6 @@ mattia@sbOogway:~$ cat focus.txt
 mattia@sbOogway:~$ echo $SITE
 https://sboogway.github.io
 ```
-
-<br/>
-
-## 🧬 Conway's Game of Life
-
-<div align="center">
-<img src="./game-of-life.svg" width="610" alt="Gosper Glider Gun, simulated in Python and baked into a looping SVG" />
-<br/>
-<sub>Gosper Glider Gun — simulated cell-by-cell in Python, exported as pure SMIL-animated SVG. No JS, loops forever.</sub>
-</div>
-
-Same idea as <a href="https://github.com/sbOogway/swg_bg"><code>swg_bg</code></a>, just aimed at a README instead of a desktop background.
 
 <br/>
 
@@ -95,36 +77,6 @@ Same idea as <a href="https://github.com/sbOogway/swg_bg"><code>swg_bg</code></a
 
 <br/>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/sbOogway/sbt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sbOogway&repo=sbt&theme=default&hide_border=true&bg_color=ffffff&title_color=1d7c37&icon_color=1d7c37&text_color=24292f" height="150"/>
-</a>
-<a href="https://github.com/sbOogway/SecureERC20">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sbOogway&repo=SecureERC20&theme=default&hide_border=true&bg_color=ffffff&title_color=1d7c37&icon_color=1d7c37&text_color=24292f" height="150"/>
-</a>
-<br/>
-<a href="https://github.com/sbOogway/fish">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sbOogway&repo=fish&theme=default&hide_border=true&bg_color=ffffff&title_color=1d7c37&icon_color=1d7c37&text_color=24292f" height="150"/>
-</a>
-<a href="https://github.com/sbOogway/xsec">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sbOogway&repo=xsec&theme=default&hide_border=true&bg_color=ffffff&title_color=1d7c37&icon_color=1d7c37&text_color=24292f" height="150"/>
-</a>
-
-</div>
-
-<div align="center">
-
-`sbt` — Python backtesting engine for crypto strategies (Binance OHLCV/funding data, walk-forward optimization)
-&nbsp;·&nbsp; `SecureERC20` — hardened ERC20 token reference implementation in Solidity
-&nbsp;·&nbsp; `fish` — a public fishing encyclopedia with interactive maps, live at [sboogway.github.io/fish](https://sboogway.github.io/fish/)
-&nbsp;·&nbsp; `xsec` — security tooling
-
-</div>
-
-<br/>
 
 ## 🏆 Trophies
 
@@ -134,17 +86,6 @@ Same idea as <a href="https://github.com/sbOogway/swg_bg"><code>swg_bg</code></a
 
 <br/>
 
-## 📈 Contribution Snake
-
-<!-- Wire this up once: add the "Snake" GitHub Action from
-     https://github.com/Platane/snk to a workflow in the sbOogway/sbOogway
-     repo — it regenerates the (light) animation below automatically. -->
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/sbOogway/sbOogway/output/github-contribution-grid-snake.svg" width="100%"/>
-</div>
-
-<br/>
 
 <div align="center">
 
