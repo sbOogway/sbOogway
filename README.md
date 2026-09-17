@@ -40,18 +40,6 @@
 
 <br/>
 
-## H4ck1ng the README
-
-<div align="center">
-<img src="./game-of-life.svg" width="610" alt="Gosper Glider Gun, simulated in Python and baked into a looping SVG" />
-<br/>
-<sub>Gosper Glider Gun — simulated cell-by-cell in Python (real B3/S23 rules), exported as pure SMIL-animated SVG. No JS, no third-party service, loops forever without a jump.</sub>
-</div>
-
-Same instinct as <a href="https://github.com/sbOogway/swg_bg"><code>swg_bg</code></a> — your Conway's Game of Life desktop background for Ubuntu — just pointed at a README instead of X11.
-
-<br/>
-
 ## Stack
 
 <div align="center">
