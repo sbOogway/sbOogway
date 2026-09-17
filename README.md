@@ -30,19 +30,6 @@
 
 <br/>
 
-```bash
-mattia@sbOogway:~$ whoami
-sbOogway
-
-mattia@sbOogway:~$ cat focus.txt
-- quant backtesting tooling (Python)
-- smart contract security (Solidity)
-- random fun builds — Conway's Game of Life bg, a fishing encyclopedia...
-
-mattia@sbOogway:~$ echo $SITE
-https://sboogway.github.io
-```
-
 <br/>
 
 ## 🛠️ Tech Stack
