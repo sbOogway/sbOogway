@@ -22,7 +22,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f6fbf8,50:eafaf1,100:d7f3e3&height=200&section=header&text=sbOogway&fontSize=46&fontColor=1d7c37&fontAlignY=38&desc=Mattia%20%E2%80%94%20builder%20%7C%20quant%20tooling%20%7C%20security&descAlignY=55&descAlign=50&animation=fadeIn" width="100%"/>
 
 <a href="https://sboogway.github.io"><img src="https://img.shields.io/badge/Website-adecbe?style=for-the-badge&logo=githubpages&logoColor=1d7c37"/></a>
 <a href="https://github.com/sbOogway"><img src="https://img.shields.io/badge/GitHub-adecbe?style=for-the-badge&logo=github&logoColor=1d7c37"/></a>
