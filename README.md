@@ -40,23 +40,6 @@
 
 <br/>
 
-```bash
-mattia@sbOogway:~$ whoami
-Mattia Papaccioli — Como, Italy 🇮🇹
-
-mattia@sbOogway:~$ cat about.txt
-👨‍💻 full stack software engineer since 2020
-🤖 python + devops, mostly — telegram/youtube/x/discord bots & automation
-🎓 BSc Computer Science, Università dell'Insubria (94/110)
-🏅 RHCSA — Red Hat Enterprise Linux 10
-🕵️ Cyberchallenge alum — reverse engineering, cryptography
-
-mattia@sbOogway:~$ echo $SITE
-https://sboogway.github.io
-```
-
-<br/>
-
 ## H4ck1ng the README
 
 <div align="center">
@@ -85,36 +68,9 @@ Same instinct as <a href="https://github.com/sbOogway/swg_bg"><code>swg_bg</code
 
 <br/>
 
-## Achievements
-
-<div align="center">
-
-<img src="https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png" height="72" alt="Pull Shark x2"/>
-<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" height="72" alt="YOLO"/>
-<img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" height="72" alt="Quickdraw"/>
-<img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" height="72" alt="Pair Extraordinaire"/>
-
-</div>
 
 <br/>
 
-## Pinned
-
-<div align="center">
-
-| repo | what it is |
-|---|---|
-| [`italia`](https://github.com/sbOogway/italia) | Data for every territorial entity in Italy, scraped from Wikipedia |
-| [`opts-viz`](https://sboogway.github.io/opts-viz) | Interactive options-strategy payoff visualizer |
-| [`.exes`](https://github.com/sbOogway/.exes) | Personal grab-bag of efficiency tools |
-| [`hyprland-fedora-44`](https://github.com/sbOogway/hyprland-fedora-44) | Hyprland RPM package for Fedora 44 |
-| [`dotfiles`](https://github.com/sbOogway/dotfiles) | The config that ties the rice together |
-
-</div>
-
-Also building: [`sbt`](https://github.com/sbOogway/sbt) (Python crypto backtesting engine), [`fish`](https://sboogway.github.io/fish/) (public fishing encyclopedia + interactive maps), [`SecureERC20`](https://github.com/sbOogway/SecureERC20) (hardened Solidity ERC20), [`xsec`](https://github.com/sbOogway/xsec) (quant/security tooling).
-
-<br/>
 
 <div align="center">
 
