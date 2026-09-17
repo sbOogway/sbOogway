@@ -3,26 +3,27 @@
   Quick notes for Mattia:
   - This lives in a repo named EXACTLY "sbOogway/sbOogway" (public,
     with a README) to show up on your GitHub profile page.
+  - Header now uses the sboogway.png you added to the repo (relative
+    path, so it just needs to sit next to this README). Footer is
+    still term-footer.svg — a hand-built terminal-window SVG, kept
+    for symmetry; swap it too if you'd rather it match the PNG, or
+    tell me and I'll rebuild it around whatever's in that banner
+    (same accent/colors, different visual).
+  - term-header.svg (the old figlet-terminal header) is unused now
+    but still in outputs if you want to compare or switch back.
   - Palette: #adecbe is your site's actual accent — I pulled it
     straight from the fill="#adecbe" on your nav menu icon's inline
     SVG at sboogway.github.io. Everything else here (near-black
     #0b110d bg, panel/border/muted tones) is a palette I derived
     mathematically FROM that same hue, since I can only read your
     site's rendered content through a fetch tool, not its actual
-    CSS/font-family — GitHub doesn't let a README's own background
-    be recolored either (code fences and badge-less text always
-    follow the viewer's own light/dark GitHub setting), so the dark
-    canvas lives inside the images (header, footer) rather than the
-    page itself. Title font below is now JetBrains
-    Mono via capsule-render's &fontFamily= — real monospace render,
-    not just a class name; swap it if you'd rather have a different
-    one (Fira Code, Space Mono, IBM Plex Mono all work the same way).
+    CSS/font-family.
   ══════════════════════════════════════════════════════════════════
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b110d,50:132018,100:0b110d&height=200&section=header&text=sbOogway&fontSize=46&fontColor=adecbe&fontAlignY=38&fontFamily=JetBrains%20Mono&desc=Mattia%20Papaccioli%20%E2%80%94%20full%20stack%20%2F%20devops%20%2F%20h4ck1ng&descAlignY=55&descAlign=50&animation=fadeIn" width="100%"/>
+<img src="./sboogway.png" width="100%" alt="sbOogway banner"/>
 
 <a href="https://github.com/sbOogway">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=ADECBE&background=0B110D00&center=true&vCenter=true&width=620&lines=%24+whoami;mattia+%40+sbOogway;full+stack+dev+%2B+devops+since+2020;%F0%9F%8E%AF+focusing" alt="Typing SVG" />
@@ -76,6 +77,8 @@
 
 <a href="https://raw.githubusercontent.com/mpapacc/cv/refs/heads/master/cv.pdf"><img src="https://img.shields.io/badge/📄_Curriculum_Vitae-adecbe?style=for-the-badge&labelColor=0d1512"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b110d,50:132018,100:0b110d&height=100&section=footer" width="100%"/>
+<br/><br/>
+
+<img src="./term-footer.svg" width="100%" alt="guest@sbOogway — exit"/>
 
 </div>
