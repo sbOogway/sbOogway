@@ -79,6 +79,4 @@
 
 <br/><br/>
 
-<img src="./term-footer.svg" width="100%" alt="guest@sbOogway — exit"/>
-
 </div>
