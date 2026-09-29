@@ -30,7 +30,6 @@
 </a>
 
 <br/>
-[![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue)](https://github.com/grindhousedev/grindlines)
 
 <a href="https://sboogway.github.io"><img src="https://img.shields.io/badge/Website-0d1512?style=for-the-badge&logo=githubpages&logoColor=adecbe"/></a>
 <a href="https://github.com/sbOogway"><img src="https://img.shields.io/badge/GitHub-0d1512?style=for-the-badge&logo=github&logoColor=adecbe"/></a>
@@ -75,7 +74,7 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sbOogway&style=for-the-badge&color=adecbe&label=PROFILE+VIEWS&labelColor=0d1512)
-
+[![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue)](https://github.com/grindhousedev/grindlines)
 <a href="https://raw.githubusercontent.com/mpapacc/cv/refs/heads/master/cv.pdf"><img src="https://img.shields.io/badge/📄_Curriculum_Vitae-adecbe?style=for-the-badge&labelColor=0d1512"/></a>
 
 <br/><br/>
